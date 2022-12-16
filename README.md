@@ -1,6 +1,6 @@
 # 07_HomeWorkToDoList
 A simple list of tasks to perform with new features .
-![ListToDO](image/screen.png)
+![ListToDO](image/screen_1.png)
 
 ## Demo
  [here](https://gmsandrzej.github.io/06_HomeWorkToDoList/).
